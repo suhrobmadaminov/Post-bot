@@ -35,12 +35,6 @@ Talablar
 Python 3.7 yoki undan yuqori
 aiogram kutubxonasi (pip install aiogram)
 
-O‘rnatish
-
-Repozitoriyani klonlang:
-bashgit clone https://github.com/sizning-username/telegram-xabar-yuboruvchi-bot.git
-cd telegram-xabar-yuboruvchi-bot
-
 Kerakli kutubxonalarni o‘rnating:
 bashpip install aiogram
 
